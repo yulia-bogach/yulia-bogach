@@ -1,4 +1,4 @@
-
+<br>
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=008000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 <div align="right" >
 
