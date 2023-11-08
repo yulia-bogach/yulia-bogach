@@ -1,56 +1,61 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=008000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)<div align="right" >
-
+<div align="center">  
    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=008000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)<div align="right" >
+</div>
+ 
 ### My name is [Yulia Bogacheva](https://www.linkedin.com/in/yulia-bogach/), I am a QA Manual and Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
+##
+
+  ### 📚 Experience and Skills
+  </div>
+  
+- Bachelor’s degree in Finance and Credit, 3+ years experience in Automation and Manual Testing and 7+ years experience in Retail banking Technologies
+- Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle by methodologies like Agile and Waterfall
+- Hands-on experience on test management and bug tracking tool JIRA
+- Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications
+- Everyday actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project
+- Improving my knowledge base in Automation testing and learning programming languages (Python,JavaScript,SQL,HTML)
+<br>
+
+
+<div align="center">  
+   
+##
+
+### ⚡Languages & Tools:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-8A2BE2?style=for-the-badge&logo=Markdown&logoColor=white)
+![SELENIUM WEBDRIVER](https://img.shields.io/badge/Selenium%20WebDriver-ce64d1?style=for-the-badge&logo=Selenium&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-b4c949?style=for-the-badge&logo=WebStorm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-1572B6?style=for-the-badge&logo=Confluence&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-278160.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-909cde?style=for-the-badge&logo=Atom&logoColor=white)
+     
+   
+##
+
+### Connect with me:
+
+<div align="center">
+<a href="https://www.linkedin.com/in/yulia-bogach/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
 </div>
 
----
-
-## QA Software Engineer 
-#### with experience in both Automation and Manual Testing
-<img align="right" width="610" height="512" src= "images/Artwork.jpg">
-
-
-## Languages and Tools:
-
-<br>
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35"/>&nbsp;
-<img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="35" /> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="35"/>&nbsp; 
-<img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" width="35" alt="PyCharm"/> 
-<img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35"/>&nbsp; <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="35"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  width="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="35"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" width="35"/>&nbsp; <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="35"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="35"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="35"/>&nbsp; <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="32"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="35"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40"/>&nbsp;
-
-<br>
-
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
-<a href="https://www.linkedin.com/in/yulia-bogach/" target="blank" >
-  
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br>
 <br>
 
 *Feel free to get in touch if you have any inquiries, proposals, or simply wish to establish connections! <br> I'm consistently open to collaboration and contributing to significant projects. <br> Let's collectively enhance software testing!*
-
 
 <br>
 
