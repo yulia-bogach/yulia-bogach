@@ -3,15 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=008000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)<div align="right" >
 </div>
  
-### My name is [Yulia Bogacheva](https://www.linkedin.com/in/yulia-bogach/)
-
-</div>
+### My name is [Yulia Bogacheva](https://www.linkedin.com/in/yulia-bogach/), I am a QA Manual and Automation Engineer
 
 ---
 
-## QA Software Engineer 
-#### with experience in both Automation and Manual Testing
-<img align="right" width="610" height="512" src= "![Untitled_Artwork](https://github.com/yulia-bogach/yulia-bogach/assets/149519671/3764ebce-cbae-48ad-b8ce-10ff4f2825b7)>
+![New Pictures2](https://github.com/yulia-bogach/yulia-bogach/assets/149519671/354e1e0f-453e-44f4-ab72-43630febb0c1)>
 <br>
 
 ## Languages and Tools:
