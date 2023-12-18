@@ -3,28 +3,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=008000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)<div align="right" >
 </div>
  
-### My name is [Yulia Bogacheva](https://www.linkedin.com/in/yulia-bogach/), I am a QA Manual and Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+### My name is [Yulia Bogacheva](https://www.linkedin.com/in/yulia-bogach/)
 
-##
+</div>
 
-  ### 📚 Experience and Skills
-  </div>
-  
-- Bachelor’s degree in Finance and Credit, 3+ years experience in Automation and Manual Testing and 7+ years experience in Retail banking Technologies
-- Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle by methodologies like Agile and Waterfall
-- Hands-on experience on test management and bug tracking tool JIRA
-- Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications
-- Everyday actively involved in Agile/Scrum Methodology in the project from requirements through the delivery of the project
-- Improving my knowledge base in Automation testing and learning programming languages (Python,JavaScript,SQL,HTML)
+---
+
+## QA Software Engineer 
+#### with experience in both Automation and Manual Testing
+<img align="right" width="610" height="512" src= "![Untitled_Artwork](https://github.com/yulia-bogach/yulia-bogach/assets/149519671/3764ebce-cbae-48ad-b8ce-10ff4f2825b7)>
 <br>
 
+## Languages and Tools:
 
-<div align="center">  
+<br>
+<br>
    
-##
-
-### ⚡Languages & Tools:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,8 +35,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-278160.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-909cde?style=for-the-badge&logo=Atom&logoColor=white)
      
-   
-##
+ <br>
 
 ### Connect with me:
 
