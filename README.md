@@ -7,7 +7,7 @@
 
 ---
 
-![New Pictures2](https://github.com/yulia-bogach/yulia-bogach/assets/149519671/354e1e0f-453e-44f4-ab72-43630febb0c1)>
+<img align="right" width="610" height="610" src="Untitled_Artwork.jpg">
 <br>
 
 ## Languages and Tools:
